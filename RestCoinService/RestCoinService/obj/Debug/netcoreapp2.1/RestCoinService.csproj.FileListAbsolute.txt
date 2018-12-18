@@ -1,0 +1,15 @@
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.deps.json
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.json
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Arlin\source\repos\!Mock2\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
